@@ -40,18 +40,11 @@
 
 DevChallenges 404 page Project.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
-Html and Css
+Built with Html and Css
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
@@ -69,6 +62,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://github.com/max1583)
-- Twitter [@your-twitter](https://twitter.com/ChibuikeNnaji10)
+- Website [My website](https://max1583.github.io/)
+- GitHub [@Max1583](https://github.com/max1583)
+- Twitter [@ChibuikeNnaji10](https://twitter.com/ChibuikeNnaji10)
