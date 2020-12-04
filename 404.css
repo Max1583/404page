@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+html{
+    background: whitesmoke;
+}
+header h1{
+    font-family: 'Inconsolata', monospace;
+    margin: 20px 0px 20px 20px;
+    color: #333333;
+    font-weight: 700;
+    font-size: 30px;
+}
+#scarecrow{
+    height: 539px;
+    width: 447px;
+    margin-left: 50px;
+}
+.contents{
+    display: flex;
+    width: 75%;  
+    margin-top: 100px;
+
+}
+.contents aside{
+    margin-left: 70px;   
+}
+aside h1{
+    font-family: 'Space Mono', monospace;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 95px;
+    text-align: left;
+    
+
+}
+aside p{
+    font-size: 27px;
+    font-weight: 100;
+    width: 100%;
+    line-height: 30px;
+    color: 4F4F4F;
+
+}
+.contents section {
+    flex: 1;
+}
+
+aside button{
+    color: whitesmoke;
+    font-family: 'Space Mono', monospace;
+    font-size: 14px;
+    background-color: #333333;
+    padding: 5px;
+}
+ button h3{
+     text-align: center;
+    padding: 0px 30px;
+}
+footer h3{
+    color: #333333;
+    margin-top: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+
+}
+
+
+
+
+@media screen and (max-width: 12in) {
+    
+    html{
+        background: whitesmoke;
+    }
+    .contents{
+        margin-left:50px ;
+    }
+    #scarecrow{
+        height: 286px;
+        width: 268px;
+        margin: auto;
+        text-align: center;        
+    }
+    .contents{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .contents section {
+        text-align: center;   
+    }
+    .contents aside {
+        text-align: center;
+    }
+    aside h1{
+        font-size: 48px;
+        line-height: 45px;
+    }
+    aside p{
+        font-size: 20px;
+    }
+    .contents aside{
+        margin-left: 0px;   
+    }
+
+ 
+
+    }
+
+
+
+  
+
+
+
